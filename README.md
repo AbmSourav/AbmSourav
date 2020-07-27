@@ -8,7 +8,7 @@ Skilled in PHP, JavaScript, Rest API, WordPress, NodeJS, ElectronJS.
     <img src="https://github.com/AbmSourav/AbmSourav/blob/master/assets/images/linkedin.svg" style="width: 15px; height: 15px;">
   </a> -->
   <a href="https://www.linkedin.com/in/keramot-ul-islam/">
-    <img src="https://github.com/AbmSourav/AbmSourav/blob/master/assets/images/linkedin.svg" style="width: 15; height: 15;">
+    <img src="https://github.com/AbmSourav/AbmSourav/blob/master/assets/images/linkedin.svg" width: "15"; height: "15";>
   </a>
   <a href="https://www.facebook.com/sourav926/">
     <img src="https://github.com/AbmSourav/AbmSourav/blob/master/assets/images/facebook.svg" style="width: 15; height: 15;">
