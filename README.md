@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello Universe 👋
 
-<!--
-**AbmSourav/AbmSourav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced Web Developer with a demonstrated history of working in the internet and web technology. Contributor and author of different open source products.
+Skilled in PHP, JavaScript, Rest API, WordPress, NodeJS, ElectronJS.
+[Read My Blog](https://blog.abmsourav.com/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+<!--   <a href="https://www.linkedin.com/in/keramot-ul-islam/">
+    <img src="https://github.com/AbmSourav/AbmSourav/blob/master/assets/images/linkedin.svg" style="width: 15px; height: 15px;">
+  </a> -->
+  <a href="https://www.linkedin.com/in/keramot-ul-islam/">
+    <img src="https://github.com/AbmSourav/AbmSourav/blob/master/assets/images/linkedin.svg" style="width: 15px; height: 15px;">
+  </a>
+  <a href="https://www.facebook.com/sourav926/">
+    <img src="https://github.com/AbmSourav/AbmSourav/blob/master/assets/images/facebook.svg" style="width: 15px; height: 15px;">
+  </a>
+  <a href="https://twitter.com/abm_sourav">
+    <img src="https://github.com/AbmSourav/AbmSourav/blob/master/assets/images/twitter.svg" style="width: 15px; height: 15px;">
+  </a>
+</p>
