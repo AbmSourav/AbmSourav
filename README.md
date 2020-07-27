@@ -1,14 +1,21 @@
-### Hello Universe 👋
+### Hi I'm Sourav
 
 <p>Experienced Web Developer with a demonstrated history of working in the internet and web technology. Contributor and author of different open source products.
 Skilled in PHP, JavaScript, Rest API, WordPress, NodeJS, ElectronJS.</p>
 
 [Read My Blog](https://blog.abmsourav.com/)
 
-<!--   <a href="https://www.linkedin.com/in/keramot-ul-islam/">
-    <img src="https://github.com/AbmSourav/AbmSourav/blob/master/assets/images/linkedin.svg" style="width: 15px; height: 15px;">
-  </a> -->
+<p>
+<strong>Contact:</strong> <br>
+Email: <code>keramotul.islam@gmail.com</code> <br>
+Direct Message: <code>https://m.me/sourav926</code>
+</p>
+
 <p>  
+<a href="mailto:keramotul.islam@gmail.com">
+    <img src="https://github.com/AbmSourav/AbmSourav/blob/master/assets/images/envelope.svg" width="25" height="25">
+</a>
+    
 <a href="https://www.linkedin.com/in/keramot-ul-islam/">
     <img src="https://github.com/AbmSourav/AbmSourav/blob/master/assets/images/linkedin.svg" width="25" height="25">
 </a>
