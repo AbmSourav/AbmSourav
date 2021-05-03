@@ -1,6 +1,6 @@
 ### Hi I'm Sourav
 
-<p>Experienced Web Developer with a demonstrated history of working in the internet and web technology. Contributor and author of different open source products.<br>
+<p>Experienced Web Developer with a demonstrated history of working in the internet and web technology. Contributor and author of different open source products.<br><br>
 <strong>Skills:</strong> JavaScript, Rest API, WordPress, PHP, NodeJS, ElectronJS. <br>
 Open-source featured works are pinned below. <br>
 <br>
@@ -15,7 +15,7 @@ Direct Message: <code>https://m.me/sourav926</code>
 </p>
 
 <p>  
-<a href="mailto:keramotul.islam@gmail.com" style="color: red !important;">
+<a href="mailto:keramotul.islam@gmail.com">
     <img src="https://github.com/AbmSourav/AbmSourav/blob/master/assets/images/envelope.svg" width="25" height="25">
 </a>
     
