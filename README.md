@@ -15,8 +15,8 @@ Direct Message: <code>https://m.me/sourav926</code>
 </p>
 
 <p>  
-<a href="mailto:keramotul.islam@gmail.com">
-    <img src="https://github.com/AbmSourav/AbmSourav/blob/master/assets/images/envelope.svg" style="color: red;" width="25" height="25">
+<a href="mailto:keramotul.islam@gmail.com" style="color: red !important;">
+    <img src="https://github.com/AbmSourav/AbmSourav/blob/master/assets/images/envelope.svg" width="25" height="25">
 </a>
     
 <a href="https://www.linkedin.com/in/keramot-ul-islam/">
