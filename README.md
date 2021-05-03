@@ -1,11 +1,16 @@
 ### Hi I'm Sourav
 
 <p>Experienced Web Developer with a demonstrated history of working in the internet and web technology. Contributor and author of different open source products.
-Skilled in PHP, JavaScript, Rest API, WordPress, NodeJS, ElectronJS. My featured works are pinned below. <br>
+<br>Skilled in PHP, JavaScript, Rest API, WordPress, NodeJS, ElectronJS. My featured works are pinned below. 
+</p>
+    
+<br>
+<p>
 Check my Portfolio <a href="https://abmsourav.com/welcome/">Here</a><br>    
 Read my <a href="https://blog.abmsourav.com/">Blog</a>
 </p>
 
+<br>
 <p>
 <strong>Contact:</strong> <br>
 Email: <code>keramotul.islam@gmail.com</code> <br>
