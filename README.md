@@ -1,10 +1,8 @@
 ### Hi I'm Sourav
 
-<p>Experienced Web Developer with a demonstrated history of working in the internet and web technology. Contributor and author of different open source products.<br><br>
-<strong>Skills:</strong> JavaScript, Rest API, WordPress, PHP, NodeJS, ElectronJS. <br>
-Open-source featured works are pinned below. <br>
-<br>
-<strong>Check my <a href="https://abmsourav.com/welcome/">Portfolio</a></strong> <br>    
+<p>Experienced Web Developer with a demonstrated history of working in the internet and web technology. Contributor and author of different open source products.
+Skilled in PHP, JavaScript, Rest API, WordPress, NodeJS, ElectronJS. My featured works are pinned below. <br>
+Check my Portfolio <a href="https://abmsourav.com/welcome/">Here</a><br>    
 Read my <a href="https://blog.abmsourav.com/">Blog</a>
 </p>
 
