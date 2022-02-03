@@ -1,6 +1,6 @@
 ### Hi I'm Sourav
 
-<p>Experienced Web Developer with a demonstrated history of working in the internet and web technology. Contributor and author of different open source products.
+<p>Experienced Web Developer with a demonstrated history of working in the internet and web technology. Contributor and author of different open source products. WordPress core contributor.
 <br>Skilled in JavaScript, Rest API, WordPress Plugin Development, PHP, NodeJS, ElectronJS. My featured works are pinned below. 
 </p>
     
