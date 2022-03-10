@@ -14,8 +14,8 @@ Read my <a href="https://blog.abmsourav.com/">Blog</a><br>
 <br>
 <p>
 <strong>Contact:</strong> <br>
-Email: <code>keramotul.islam@gmail.com</code> <br>
-Direct Message: <code>https://m.me/sourav926</code>
+Collaboration: <code>keramotul.islam@gmail.com</code> <br>
+Wanna Talk: <code>https://m.me/sourav926</code>
 </p>
 
 <p>  
