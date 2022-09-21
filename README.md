@@ -8,7 +8,7 @@
 <p>
 Check my Portfolio <a href="https://abmsourav.com/welcome/">Here</a><br>    
 Read my <a href="https://blog.abmsourav.com/">Blog</a><br>
-    Founder of <a href="https://github.com/CodesVault">CodesVault</a> GitHub Organization
+    Founder of <a href="https://codesvault.dev">CodesVault</a> Organization
 </p>
 
 <br>
