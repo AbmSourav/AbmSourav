@@ -7,8 +7,8 @@
 <br>
 <p>
 Check my Portfolio <a href="https://abmsourav.com/welcome/">Here</a><br>    
-Read my <a href="https://blog.abmsourav.com/">Blog</a><br>
-    Founder of <a href="https://codesvault.dev">CodesVault</a> Organization
+Read my <a href="https://blog.abmsourav.com/" target="_blank">Blog</a><br>
+    Founder of <a href="https://codesvault.dev" target="_blank">CodesVault</a>
 </p>
 
 <br>
@@ -24,22 +24,22 @@ Wanna Talk: <code>https://m.me/sourav926</code>
 </a>
 &nbsp;
     
-<a href="https://www.linkedin.com/in/keramot-ul-islam/" title="LinkedIn">
+<a href="https://www.linkedin.com/in/keramot-ul-islam/" title="LinkedIn" target="_blank">
     <img src="https://github.com/AbmSourav/AbmSourav/blob/master/assets/images/linkedin.png" width="25" height="25">
 </a>
 &nbsp;
 
-<a href="https://www.facebook.com/sourav926" title="Facebook">
+<a href="https://www.facebook.com/sourav926" title="Facebook" target="_blank">
     <img src="https://github.com/AbmSourav/AbmSourav/blob/master/assets/images/facebook.png" width="25" height="25">
 </a>
 &nbsp;
 
-<a href="https://m.me/sourav926" title="Messenger">
+<a href="https://m.me/sourav926" title="Messenger" target="_blank">
     <img src="https://github.com/AbmSourav/AbmSourav/blob/master/assets/images/messenger.png" width="25" height="25">
 </a>
 &nbsp;
 
-<a href="https://twitter.com/abm_sourav" title="Twitter">
+<a href="https://twitter.com/abm_sourav" title="Twitter" target="_blank">
     <img src="https://github.com/AbmSourav/AbmSourav/blob/master/assets/images/twitter.png" width="25" height="25">
 </a>
 </p>
