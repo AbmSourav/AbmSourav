@@ -1,7 +1,7 @@
 ### Hi I'm Keramot
 
 <p>Experienced Web Developer with a demonstrated history of working in the internet and web technology. Contributor and author of different open source products. WordPress core contributor.
-<br>Skilled in JavaScript, Rest API, WordPress Plugin Development, PHP, TypeScript. My featured works are pinned below. 
+<br>Skilled in PHP, JavaScript, Rest API, WordPress Plugin Development, TypeScript. My featured works are pinned below. 
 </p>
     
 <br>
