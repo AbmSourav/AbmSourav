@@ -8,7 +8,7 @@
 <p>
 Check my Portfolio <a href="https://abmsourav.com/welcome/">Here</a><br>    
 Read my <a href="https://blog.abmsourav.com/" target="_blank">Blog</a><br>
-    Maintainer of <a href="https://codesvault.dev" target="_blank">CodesVault</a>
+    Maintainer of <a href="https://github.com/CodesVault" target="_blank">CodesVault</a>
 </p>
 
 <br>
