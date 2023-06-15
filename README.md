@@ -6,9 +6,10 @@
     
 <br>
 <p>
-Check my Portfolio <a href="https://abmsourav.com/welcome/">Here</a><br>    
+Lead Maintainer of <a href="https://github.com/CodesVault" target="_blank">CodesVault</a><br>
+Author and Core developer of <a href="https://kathamo.dev">Kathamo Framework</a><br>
+My Portfolio <a href="https://abmsourav.com/welcome/">Here</a><br>    
 Read my <a href="https://blog.abmsourav.com/" target="_blank">Blog</a><br>
-    Maintainer of <a href="https://github.com/CodesVault" target="_blank">CodesVault</a>
 </p>
 
 <br>
