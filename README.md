@@ -1,14 +1,15 @@
 ### Hi I'm Keramot
 
-<p>Experienced Web Developer with a demonstrated history of working in the internet and web technology. Contributor and author of different open source products. WordPress core contributor.
-<br>Skilled in PHP, JavaScript, Rest API, WordPress Plugin Development, TypeScript. My featured works are pinned below. 
+<p>
+    A self-taught, passionate Full Stack Developer with years of extensive professional experience. I am well-versed in WordPress plugin development and Laravel backend development. I am also the author of multiple Composer packages and NPM libraries. I am a Certified Scrum Developer (CSD). I am also skilled in CI/CD pipeline setup, Project planning, and leading team. Contributor and author of different open-source products. WordPress core contributor.
+    <br>Skilled in PHP, JavaScript, Rest API, WordPress Plugin Development, Laravel, and TypeScript. My featured works are pinned below.
 </p>
     
 <br>
 <p>
 Lead Maintainer of <a href="https://github.com/CodesVault" target="_blank">CodesVault</a><br>
 Author and Core developer of <a href="https://kathamo.dev">Kathamo Framework</a><br>
-My Portfolio <a href="https://abmsourav.com/welcome/">Here</a><br>    
+My <a href="https://abmsourav.com/welcome/">Portfolio</a><br>    
 Read my <a href="https://blog.abmsourav.com/" target="_blank">Blog</a><br>
 </p>
 
