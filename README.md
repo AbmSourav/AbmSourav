@@ -2,7 +2,7 @@
 
 <p>
     A self-taught, passionate Full Stack Developer with years of extensive professional experience. I am well-versed in Laravel backend development and WordPress plugin development. I am also the author of multiple Composer packages and NPM libraries. I am a Certified Scrum Developer (CSD). I am also skilled in CI/CD pipeline setup, Project planning, and leading a team. Contributor and author of different open-source products. WordPress core contributor.
-    <br>Skilled in PHP, JavaScript, Rest API, WordPress Plugin Development, Laravel, and TypeScript. My featured works are pinned below.
+    <br>Skilled in PHP, JavaScript, Rest API, WordPress Plugin Development, Laravel, and ReactJS. My featured works are pinned below.
 </p>
     
 <br>
