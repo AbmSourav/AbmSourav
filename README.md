@@ -8,8 +8,7 @@
 <br>
 <p>
 Composer Packages: <a href="https://packagist.org/users/abmSourav/" target="_blank">Packagist Profile</a><br>
-Lead Maintainer of <a href="https://github.com/CodesVault" target="_blank">CodesVault</a><br>
-Author and Core developer of <a href="https://kathamo.dev">Kathamo Framework</a><br>
+Maintainer of <a href="https://github.com/CodesVault" target="_blank">CodesVault</a><br>
 My <a href="https://abmsourav.com/welcome/">Portfolio</a><br>    
 Read my <a href="https://blog.abmsourav.com/" target="_blank">Blog</a><br>
 </p>
