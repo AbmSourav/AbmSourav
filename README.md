@@ -4,7 +4,8 @@
     Senior full-stack developer. Over 6 years in the WordPress ecosystem, now building AI into real products. <br />
     WordPress Core contributor. Maintainer of <a href="https://github.com/CodesVault" target="_blank">CodesVault</a>. Meetup and WordCamp organizer in Bangladesh. <br />
     Previously Lead Backend Developer at Awesome Motive for over 3 years. <br />
-    Multiple Composer packages author: <a href="https://packagist.org/users/abmSourav/">Profile</a>
+    Multiple Composer packages author: <a href="https://packagist.org/users/abmSourav/">Profile</a> <br />
+    NPM packages Author: <a href="https://www.npmjs.com/~abmsourav">Profile</a>
 </p>
 
 <br />
