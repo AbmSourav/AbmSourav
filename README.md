@@ -50,20 +50,28 @@
     Email
 </a>
 &nbsp;
+    ·
+&nbsp;
 
 <a href="https://abmsourav.com" title="Portfolio" target="_blank">
     Portfolio
 </a>
+&nbsp;
+    ·
 &nbsp;
 
 <a href="https://blog.abmsourav.com/" title="Blog" target="_blank">
     Blog
 </a>
 &nbsp;
+    ·
+&nbsp;
     
 <a href="https://www.linkedin.com/in/keramot-ul-islam/" title="LinkedIn" target="_blank">
     LinkedIn
 </a>
+&nbsp;
+    ·
 &nbsp;
 
 <a href="https://profiles.wordpress.org/sourav926" title="WordPress" target="_blank">
