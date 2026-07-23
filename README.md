@@ -1,7 +1,7 @@
 ### Hi I'm Keramot
 
 <p>
-    * Senior full-stack developer. Over 7 years in the WordPress ecosystem, now building AI into real products. <br />
+    * Senior full-stack developer. Over 7 years in web development, now building AI into real products. <br />
     * Previously Lead Backend Developer at Awesome Motive for over 3 years. <br />
     * Multiple Composer packages author: <a href="https://packagist.org/users/abmSourav/">Profile</a> <br />
     * NPM packages Author: <a href="https://www.npmjs.com/~abmsourav">Profile</a> <br />
